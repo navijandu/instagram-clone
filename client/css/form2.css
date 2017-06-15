@@ -1,0 +1,26 @@
+.form2{
+     width: 890px;
+    height: 50px;
+    margin-left: 200px;
+    
+}
+#story{
+    display: inline-block;
+    margin-left: 10px;
+}
+#play{
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+
+    margin-top: 10px;
+    margin-left: 650px;
+    
+}
+#watch{
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+    
+    
+    }

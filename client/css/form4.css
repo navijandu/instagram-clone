@@ -1,0 +1,54 @@
+.form4{
+    width: 890px;
+    height: 80px;
+    margin-left: 200px;
+    border-style:outset;
+    border-width:0px 0px 3px 0px;
+    
+}
+#fb{
+    display: inline-block;
+    
+    height: 50px;
+    width: 50px;
+}
+#as{
+    display: inline-block;
+}
+
+#andy{
+    display: inline-block;
+    height: 70px;
+    width: 0px;
+    margin-left: 100px;
+}
+
+
+#kelly{
+     display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+
+#mari{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+
+#imu{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+#zuck{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+
+#kevin{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
