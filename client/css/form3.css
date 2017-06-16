@@ -1,5 +1,5 @@
 .form3{
-     width: 890px;
+    width: 890px;
     height: 900px;
     margin-left: 200px;
     border: 1px solid grey;
@@ -16,15 +16,3 @@
     height: 50px;
     float: right;
 }
-#comment{
-    display: inline-block;
-    height: 60px;
-    width: 60px;
-}
-#collect{
-    display: inline-block;
-    height:30px;
-    width:30px;
-    float: right;
-}
-

@@ -8,18 +8,15 @@
 }
 #fb{
     display: inline-block;
-    
     height: 50px;
     width: 50px;
-}
-#as{
-    display: inline-block;
+    border-radius: 50%;
 }
 
 #andy{
     display: inline-block;
     height: 70px;
-    width: 0px;
+    width: 30px;
     margin-left: 100px;
 }
 

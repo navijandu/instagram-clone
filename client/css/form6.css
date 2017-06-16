@@ -3,21 +3,10 @@
     height: auto;
     margin-left: 150px;
     
+    
 }
 #dog{
     display: inline-block;
     height: 600px;
-    width: 600px;
-}
-#lp{
-    
-    
-}
-#cmt{
-    
-}
-#dr{
-    height: 45px;
-    width: 45px;
-    margin-left: 0px;
+    width: 700px;
 }
