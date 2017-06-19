@@ -1,12 +1,15 @@
 .form6{
-     width: auto;
+    width: auto;
     height: auto;
-    margin-left: 150px;
+    margin-left: 10px;
+    
     
     
 }
 #dog{
     display: inline-block;
-    height: 600px;
-    width: 700px;
+    height: 500px;
+    width: 650px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
